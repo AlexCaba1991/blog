@@ -1,3 +1,20 @@
+# După ce ai făcut modificările în codul tău
+
+Iată pașii completi:
+
+1. Inițializează repository-ul Git (doar dacă nu ai făcut-o deja):
+   git init
+2. Adaugă toate fișierele modificate la staging:
+   git add .
+3. Creează un commit cu modificările tale:
+   git commit -m "Inițializare proiect sau orice mesaj descriptiv pentru commit"
+4. (Opțional) Conectează repository-ul local la unul remote (de exemplu, pe GitHub):
+   git remote add origin URL_REPOSITORY_REMOTE
+   Înlocuiește `URL_REPOSITORY_REMOTE` cu URL-ul repository-ului tău remote.
+5. Împinge modificările la repository-ul remote:
+   git push -u origin main
+   Înlocuiește `main` cu numele branch-ului tău dacă nu folosești `main`.
+
 ![tailwind-nextjs-banner](/public/static/images/twitter-card.png)
 
 # Tailwind Nextjs Starter Blog
