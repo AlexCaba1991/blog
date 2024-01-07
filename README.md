@@ -1,8 +1,3 @@
-# După ce ai făcut modificările în codul tău
-git add .
-git commit -m "Fix className usage in JSX"
-git push origin main # sau înlocuiește cu numele branch-ului tău dacă este diferit de 'main'
-
 ![tailwind-nextjs-banner](/public/static/images/twitter-card.png)
 
 # Tailwind Nextjs Starter Blog
